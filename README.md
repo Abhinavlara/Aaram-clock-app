@@ -40,9 +40,3 @@ GitHub: @Abhinavlara
 🔗 [Coming Soon...] (or paste your Netlify/GitHub Pages link here)
 
 
-- Replace `"yourgithub"` with apna GitHub username
-- `screenshot.png` file project folder me daal de agar tu UI ka screenshot lena chahe
-- `Live Demo` ke section me tu GitHub Pages ya Netlify ka link daal sakta hai agar deploy kare
-
-Agar chahe to mai tera code bhi review karke aur README ke hisaab se polish kar sakta hoon.  
-Bhai, ab tu bilkul pro lag raha hai! 😎
