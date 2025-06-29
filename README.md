@@ -36,7 +36,7 @@ This project is licensed under the MIT License — free to use and modify with c
 Your Name-ABHINAV SONKAR
 GitHub: @Abhinavlara
 
-🌐 Live Demo
-🔗 [Coming Soon...] (or paste your Netlify/GitHub Pages link here)
+## Live Demo
+🔗 [ Click to here live view ]( https://abhinavlara.github.io/Aaram-clock-app/)
 
 
